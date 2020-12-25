@@ -1,1 +1,1 @@
-http://www.whitepaper222.com/
+http://www.whitepaper.com/
