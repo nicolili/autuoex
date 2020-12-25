@@ -1,2 +1,2 @@
-## Whitepaper12/25
+## Whitepaper12/24
 http://www.whitepaper111.com/
