@@ -1,18 +1,17 @@
-Use Case Title test
+Whitepaper Links
+==============
+it is used to test
+
+ 
+ 
+ ## Whitepaper
+forPre[WhitePaperVal](http://www.whitePaper.com/)
+
+forPre[WhitePaperVal2](http://www.whitePaper222.com/)
+
+## Solutions on EcosystemExchange
+[Physical Density Controls](https://testing-developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/)
+
+[Instant, custom splash pages for WiFi access](https://testing-developer.cisco.com/ecosystem/meraki/apps/5a6d16371df81231b1403a81/)
 
 
-(optional) Describe the use case for Automation Exchange entries here. DevNet Automation Exchange provides shared code repositories for gathering information from your network, performing audits, activating policy changes, or managing applications, users, or devices. This file serves as a template to collect related links for Automation Exchange submissions.
-
-Use GitHub Markdown formatting in this file.
-
-White Paper
-Provide links to related white papers: CHANGE LINK AND TEXT TO REAL WHITE PAPER
-
-Related Sandbox
-Provide a link to a related DevNet Sandbox: CHANGE EXAMPLE SANDBOX Catalyst 9800 Wireless LAN Controller
-
-Links to DevNet Learning Labs
-Provide links to related Learning Labs or modules on DevNet: CHANGE EXAMPLE Introduction to Model Driven Programmability(ex: NETCONF/YANG)
-
-Solutions on Ecosystem Exchange
-Provide links to related solutions on DevNet Ecosystem Exchange: CHANGE EXAMPLE Physical Density Controls
