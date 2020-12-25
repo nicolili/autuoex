@@ -1,2 +1,2 @@
-## Whitepaper12/24
+## Whitepaper
 http://www.whitepaper.com/
