@@ -1,11 +1,11 @@
-Whitepaper
+
 ==============
-it is used to test
+
 
  
  
- ## Whitepaper2222
-forPre[WhitePaperVal](http://www.whitePaper222.com/)
+ ## Whitepaper
+forPre[WhitePaperVal](http://www.whitePaper.com/)
 
 
 
