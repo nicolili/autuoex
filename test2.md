@@ -51,7 +51,7 @@ To use this application you will need:
  <img src="https://d1wqs00nbeeox1.cloudfront.net/staging/smartsheet/rc-upload-1593427827859-3/1593428426231.png" />
  
  
- ## Whitepaper
+ ## Whitepaper1225
 forPre[WhitePaperVal](http://www.whitePaper.com/)
 
 forPre[WhitePaperVal2](https://developer22.cisco.com/certification/)
