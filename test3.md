@@ -5,7 +5,7 @@ it is used to test
  
  
  ## Whitepaper2222
-forPre[WhitePaperVal](http://www.whitePaper.com/)
+forPre[WhitePaperVal](http://www.whitePaper222.com/)
 
 
 
