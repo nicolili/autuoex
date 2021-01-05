@@ -1,4 +1,4 @@
-Ansible to troubleshoot OSPF issues -2 (updated 12/24)
+Ansible to troubleshoot OSPF issues -2 (updated 01/05)
 =====================================
 This is a use case for testing
  
@@ -6,7 +6,7 @@ This is a use case for testing
  ## Whitepaper
 forPre[WhitePaperVal](http://www.whitePaper.com/)
 
-forPre[WhitePaperVal2](https://developer.cisco.com/certification/)
+forPre[WhitePaperVal2](https://developer.cisco.com22/certification/)
 
 ## Related Sandbox
 [Catalyst 9800 Wireless LAN Controller](https://devnetsandbox.cisco.com/RM/Diagram/Index/9900a725-c584-42ae-8d51-3ac87533c5c5?diagramType=Topology)
