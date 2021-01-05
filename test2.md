@@ -63,9 +63,9 @@ forPre[WhitePaperVal2](https://developer222.cisco.com/certification/)
 [Networking Basics](https://developer222.cisco.com/learning/modules/networking-basics/)
 
 ## Solutions on EcosystemExchange
-[Physical Density Controls](https://testing-developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/)
+[Physical Density Controls](https://testing-developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/222/)
 
-[Instant, custom splash pages for WiFi access](https://testing-developer.cisco.com/ecosystem/meraki/apps/5a6d16371df81231b1403a81/)
+[Instant, custom splash pages for WiFi access](https://testing-developer.cisco.com/ecosystem/meraki/apps/5a6d16371df81231b1403a81/222/)
 
 
 ## Sales Play Category
