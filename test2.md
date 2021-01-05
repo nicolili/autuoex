@@ -54,7 +54,7 @@ To use this application you will need:
  ## Whitepaper1225
 forPre[WhitePaperVal](http://www.whitePaper.com/)
 
-forPre[WhitePaperVal2](https://developer.cisco.com/certification/)
+forPre[WhitePaperVal2](https://developer222.cisco.com/certification/)
 
 ## Related Sandbox
 [Catalyst 9800 Wireless LAN Controller](https://devnetsandbox222.cisco.com/RM/Diagram/Index/9900a725-c584-42ae-8d51-3ac87533c5c5?diagramType=Topology)
